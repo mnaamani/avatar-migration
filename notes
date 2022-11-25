@@ -1,0 +1,12 @@
+# Notes:
+```
+if text/html -> there is some metadata in header eg. for member 911
+<meta property="og:image" 
+content="https://cdn4.telegram-cdn.org/file/FVFaZup3XQBZo0meZetNaEPEr6y9KoQyRFUukp482oYl79_vkeLSltczYb1BuVI2NoGK0R8UI-KyOlxKBKIFjhZmGoagDykbHRxWZciXUtd82Vlzv1xQj-aokODYRgGe46qzJK0FJYsnFiPaF9-sBW0zC_OVPRr4Zmng8pjwf9ZoLSLb4ntG1L_FLRYgttv6IwYg85ZFe5Nj6hi-vQyOj_MHjUjtoUaFvEeIrtCgpU6wqxVhsIAowMEw17RHWVNXmEmO4-1Ek-m-1vwa33oRDqsA6VUlSKCres4MA0MJfMmE3n0L1Wd9FQ3rG4h6yp24Sa5CjgSx4WJ8W2e_QgBYkg.jpg">
+Some avatars are to random image generators..
+broken links/unreachable hosts..
+Some founding members:
+ have url to https://github.com/Joystream/founding-members/blob/main/avatars/new-avatar-alt/114.png but that is not raw
+should be: https://raw.githubusercontent.com/Joystream/founding-members/main/.. (removed blob)
+```
+
